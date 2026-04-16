@@ -1,0 +1,139 @@
+{
+  "advice": [
+    {
+      "id": 1,
+      "text": "Be comfortable with being uncomfortable. ",
+      "advisor_name": "My father",
+      "advisor_role": "Dad",
+      "category": "life",
+      "context_notes": "He was giving me life advice. ",
+      "is_favorite": false,
+      "tags": [],
+      "created_at": "2026-04-14T00:14:06.976Z",
+      "updated_at": "2026-04-15T16:44:57.828Z"
+    },
+    {
+      "id": 2,
+      "text": "Learn, master and teach - figure out how you learn the best, master the concepts you have a passion in and teach others around you to stand out as a leader!",
+      "advisor_name": "Kevin Gates",
+      "advisor_role": "Cloud Architect",
+      "category": "career",
+      "context_notes": "Came from life experiences and it helps you feel more CONFIDENT in your abilities",
+      "is_favorite": false,
+      "tags": [
+        "career",
+        "storytelling",
+        "learning",
+        "teaching"
+      ],
+      "created_at": "2026-04-15T16:43:47.747Z",
+      "updated_at": "2026-04-15T16:44:37.814Z"
+    },
+    {
+      "id": 3,
+      "text": "Never underestimate the power of connection. Speak to others genuinely, not transactionally. Know when to listen and when to use your voice. The stars are the limit, keep shining. ",
+      "advisor_name": "Arely Dorsey",
+      "advisor_role": "Director of Workforce Development",
+      "category": "general",
+      "context_notes": "I asked her during my Microsoft visit :)",
+      "is_favorite": false,
+      "tags": [
+        "connection",
+        "authenticity"
+      ],
+      "created_at": "2026-04-15T16:54:21.116Z",
+      "updated_at": "2026-04-15T16:54:21.116Z"
+    },
+    {
+      "id": 4,
+      "text": "It's better to be too kind than it is to be too cruel - both will come back to you in some way. Even still, always be firm in your boundaries.",
+      "advisor_name": "Joshua Garcia",
+      "advisor_role": "Tech Leader for C59",
+      "category": "life",
+      "context_notes": "This is my dawg right here ",
+      "is_favorite": false,
+      "tags": [
+        "leadership",
+        "kindness"
+      ],
+      "created_at": "2026-04-15T17:00:17.640Z",
+      "updated_at": "2026-04-15T17:00:17.640Z"
+    },
+    {
+      "id": 5,
+      "text": "No one has crossed you as bad as you've crossed God, and He always forgives you. Remember that when you're deciding whether or not you can let something go.",
+      "advisor_name": "Jhordan Howard",
+      "advisor_role": "Mom of the Century",
+      "category": "life",
+      "context_notes": "I was opening up with her about how difficult it is to let go of people who have hurt me in the past.",
+      "is_favorite": false,
+      "tags": [],
+      "created_at": "2026-04-15T17:08:32.621Z",
+      "updated_at": "2026-04-15T18:54:12.798Z"
+    },
+    {
+      "id": 6,
+      "text": "We are all just one decision away from being in someone else's shoes. Never forget we are all the sum of our decisions. ",
+      "advisor_name": "Brandies Meva'a",
+      "advisor_role": "Program Manager ",
+      "category": "life",
+      "context_notes": "We were sitting by her desk",
+      "is_favorite": false,
+      "tags": [
+        "understanding",
+        "empathy"
+      ],
+      "created_at": "2026-04-15T18:49:12.541Z",
+      "updated_at": "2026-04-15T18:49:12.541Z"
+    },
+    {
+      "id": 7,
+      "text": "Don't let your past determine your future. One thing has NOTHING to do with the other. ",
+      "advisor_name": "Tandeleya Hill ",
+      "advisor_role": "Case Worker ",
+      "category": "general",
+      "context_notes": "We were chilling at i.c Stars",
+      "is_favorite": false,
+      "tags": [
+        "mindset"
+      ],
+      "created_at": "2026-04-15T18:58:20.152Z",
+      "updated_at": "2026-04-15T18:58:20.152Z"
+    },
+    {
+      "id": 8,
+      "text": "You'll have good and bad days but if you get up and try then it was a good day. Don't be your biggest critic. ",
+      "advisor_name": "My Mom",
+      "advisor_role": "Mother",
+      "category": "life",
+      "context_notes": "We were chilling on the couch in the dining room talking. ",
+      "is_favorite": false,
+      "tags": [
+        "mothers love",
+        "life"
+      ],
+      "created_at": "2026-04-15T22:03:21.971Z",
+      "updated_at": "2026-04-15T22:03:21.971Z"
+    }
+  ],
+  "tags": [
+    "career",
+    "technical",
+    "life",
+    "communication",
+    "leadership",
+    "productivity",
+    "networking",
+    "mindset",
+    "storytelling",
+    "learning",
+    "teaching",
+    "connection",
+    "authenticity",
+    "kindness",
+    "understanding",
+    "empathy",
+    "mothers love"
+  ],
+  "nextId": 9
+}
