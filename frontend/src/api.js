@@ -1,4 +1,4 @@
-const API = 'http://localhost:3001/api/advice';
+const API = import.meta.env.PROD ? '/api/advice' : 'http://localhost:3001/api/advice';
 
 async function handleResponse(res) {
   if (!res.ok) {
